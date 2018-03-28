@@ -6,3 +6,7 @@
 [Install Scrapy on Mac](https://blog.michaelyin.info/2017/08/16/scrapy-tutorial-2-how-install-scrapy-mac/)
 
 [Learn Web Scraping Using Python For Free](https://scrapingclub.com/)
+
+[Flask](http://dormousehole.readthedocs.io/en/latest/quickstart.html)
+
+[Jinja2](http://docs.jinkan.org/docs/jinja2/)
